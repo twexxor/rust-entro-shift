@@ -9,5 +9,3 @@ license = "MIT"
 name = "entro-shift"
 repository = "https://github.com/twexxor/rust-entro-shift"
 version = "1.0.0"
-
-[dependencies]
