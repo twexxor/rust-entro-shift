@@ -8,8 +8,7 @@ fn main() {
 
     while i != 10 {
         entropy = entro_shift(entropy);
+        println!("{}", entropy);
         i += 1;
     }
-
-    println!("{}", entropy);
 }
