@@ -2,10 +2,10 @@
 authors = ["Will Parsons <https://www.linkedin.com/in/twexxor/>"]
 categories = ["algorithms", "embedded", "game-development", "no-std"]
 description = "Entro Shift is a 32-bit pseudo-random number generator algorithm."
-documentation = "https://github.com/twexxor/rust-entro-shift/README.md"
+documentation = "https://github.com/twexxor/rust-entro-shift/blob/master/README.md"
 homepage = "https://entrocraft.com/dungeon/randomization-algorithms/entro-shift/"
 keywords = ["prng", "random", "random-numbers", "randomize", "rng"]
 license = "MIT"
 name = "entro-shift"
 repository = "https://github.com/twexxor/rust-entro-shift"
-version = "1.0.2"
+version = "1.0.3"
