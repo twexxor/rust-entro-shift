@@ -8,4 +8,4 @@ keywords = ["prng", "random", "random-numbers", "randomize", "rng"]
 license = "MIT"
 name = "entro-shift"
 repository = "https://github.com/twexxor/rust-entro-shift"
-version = "1.0.4"
+version = "1.0.5"
